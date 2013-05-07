@@ -2,10 +2,10 @@
 
 /**
  * @file
- * Contains \Drupal\shortcut\Plugin\block\block\ShortcutsBlock.
+ * Contains \Drupal\shortcut\Plugin\Block\ShortcutsBlock.
  */
 
-namespace Drupal\shortcut\Plugin\block\block;
+namespace Drupal\shortcut\Plugin\Block;
 
 use Drupal\block\BlockBase;
 use Drupal\Component\Annotation\Plugin;
