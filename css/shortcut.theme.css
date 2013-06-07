@@ -7,11 +7,11 @@
  * Toolbar.
  */
 .icon-shortcut:before {
-  background-image: url("images/shortcut.png");
+  background-image: url(../images/shortcut.png);
 }
 .icon-shortcut:active:before,
 .icon-shortcut.active:before {
-  background-image: url("images/shortcut-active.png");
+  background-image: url(../images/shortcut-active.png);
 }
 .toolbar .tray.horizontal.shortcuts .menu {
   float: left;
@@ -31,7 +31,7 @@
  * Add/remove links.
  */
 .add-or-remove-shortcuts .icon {
-  background: transparent url(shortcut.png) no-repeat;
+  background: transparent url(../images/shortcut-add.png) no-repeat;
   height: 12px;
   margin-left: 8px; /* LTR */
   overflow: hidden;
